@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:thykos/azaza-backend-app.git",
+    "project_destination_path": "azaza-backend-app",
+    "application_name": "azaza",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
